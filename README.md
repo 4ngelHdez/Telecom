@@ -14,10 +14,10 @@ Objetivos
 Metodología
 Para llevar a cabo este proyecto utilicé Python como herramienta principal para el procesamiento y análisis de datos. Las etapas incluyeron:
 
-    * Análisis exploratorio de datos: limpieza de valores nulos, identificación de duplicados, análisis de distribución y creación de nuevas métricas.
-    * Definición de métricas de ineficiencia: establecí umbrales para definir cuándo un operador debía ser considerado ineficaz.
-    * Análisis estadístico: utilicé pruebas como Shapiro-Wilk, Levene y Mann-Whitney para verificar la normalidad, homogeneidad de varianzas y diferencias significativas entre grupos.
-    * Visualización de datos: se desarrollaron gráficos interactivos con Tableau y Plotly para mostrar el comportamiento de los operadores y el tiempo de espera según el plan tarifario.
+   * Análisis exploratorio de datos: limpieza de valores nulos, identificación de duplicados, análisis de distribución y creación de nuevas métricas.
+   *  Definición de métricas de ineficiencia: establecí umbrales para definir cuándo un operador debía ser considerado ineficaz.
+   * Análisis estadístico: utilicé pruebas como Shapiro-Wilk, Levene y Mann-Whitney para verificar la normalidad, homogeneidad de varianzas y diferencias significativas entre grupos.
+   * Visualización de datos: se desarrollaron gráficos interactivos con Tableau y Plotly para mostrar el comportamiento de los operadores y el tiempo de espera según el plan tarifario.
 
 Conclusiones
 * Se identificó que 17 operadores ineficientes que incumplían en todos los criterios establecidos (más de 3 llamadas perdidas, llamadas perdidas con tiempo de espera, menos de 60 llamadas salientes).
